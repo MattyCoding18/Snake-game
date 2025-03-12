@@ -59,7 +59,7 @@ Make sure you have **Python** installed (3.x recommended). No additional librari
 ---
 
 ## 📸 Gameplay Preview
-[Insert GIF or Screenshot of Gameplay]
+
 
 ---![snakegame trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/96bf2e44-da21-4acf-8258-df724925b41f)
 
